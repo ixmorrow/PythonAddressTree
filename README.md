@@ -4,3 +4,6 @@ display all of the addresses it has had a transaction with, the amount in Wei of
 Right now, I've got the bare bones of it down but it's definitely not a finished product, as it does not do anything recursively and only displays the addresses associated with the
 given address. This was just a project I made for fun, as well as practice - so the goal wasn't production level quality.
 
+![alt text](https://github.com/ixmorrow/PythonAddressTree/tree/master/eth-tree.png?raw=true)
+
+![alt text](https://github.com/ixmorrow/PythonAddressTree/tree/master/txs.png?raw=true)
