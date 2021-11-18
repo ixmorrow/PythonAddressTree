@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Transaction Tree</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  </head>
+  <body>
+    <ul>
+      {% for item in data %}
+      <p>Transaction</p>
+      <li>{{item['from']}}</li>
+      <li>{{item['to']}}</li>
+      <li>{{item['value']}}</li>
+      {% endfor %}
+    </ul>
+  <h3>List of nodes</h3>
+    <ul>
+      {% for item in nodes %}
+      <li>{{item}}</li>
+      {% endfor %}
+    </ul>
+
+
+
+    <script src="/java.js"></script>
+
+    </script>
+  </body>
+</html>
