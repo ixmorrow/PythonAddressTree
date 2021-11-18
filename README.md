@@ -7,3 +7,5 @@ given address. This was just a project I made for fun, as well as practice - so 
 ![alt text](https://github.com/ixmorrow/PythonAddressTree/tree/master/eth-tree.png?raw=true)
 
 ![alt text](https://github.com/ixmorrow/PythonAddressTree/tree/master/txs.png?raw=true)
+![eth-tree](https://user-images.githubusercontent.com/55170695/142483964-3bb410f9-b2a0-4358-b965-70e04283c19e.png)
+![txs](https://user-images.githubusercontent.com/55170695/142484003-c5fa79a3-53eb-46f9-b1b6-2787192e0269.png)
